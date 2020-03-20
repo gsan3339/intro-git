@@ -3,3 +3,4 @@ test
 /git
 text2
 gitstatus
+gitdiff
