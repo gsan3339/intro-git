@@ -1,3 +1,4 @@
 Gitの練習
 test
 /git
+text2
